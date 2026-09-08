@@ -155,16 +155,8 @@ public class Main {
 
 ## Output:
 
-```
-input:
-4
-50
-10 20 30 40
-60 100 120 240
 
-output:
-300
-```
+<img width="508" height="234" alt="image" src="https://github.com/user-attachments/assets/457902e3-ee50-492b-88c7-4bf952af8c60" />
 
 ## Result:
 
