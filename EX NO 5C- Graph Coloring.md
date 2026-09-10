@@ -27,8 +27,8 @@ Otherwise → print "NO" (conflict in channel assignment).
 ## Program:
 ```
 Program to implement Reverse a String
-Developed by: Ragavan E
-Register Number:212223040160
+Developed by:Pooja s
+Register Number:212223040146
 import java.util.*;
 
 public class RadioTowerChannelAssignment {
