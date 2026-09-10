@@ -27,8 +27,8 @@ Find the components of its source and destination.
 ## Program:
 ```
 Program to implement Reverse a String
-Developed by: Ragavan E
-Register Number:212223040160
+Developed by: pooja s
+Register Number:212223040146
 import java.util.*;
 
 public class BoruvkaMST {
