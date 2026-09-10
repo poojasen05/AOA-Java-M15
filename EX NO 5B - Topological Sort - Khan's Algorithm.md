@@ -32,8 +32,8 @@ representing a feasible schedule of task execution.
 ## Program:
 ```
 Program to implement Reverse a String
-Developed by: Ragavan E
-Register Number:212223040160
+Developed byR pooja s
+Register Number:212223040146
 import java.util.*;
 
 public class prog {
