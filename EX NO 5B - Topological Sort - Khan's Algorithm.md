@@ -32,7 +32,7 @@ representing a feasible schedule of task execution.
 ## Program:
 ```
 Program to implement Reverse a String
-Developed byR pooja s
+Developed by: pooja s
 Register Number:212223040146
 import java.util.*;
 
