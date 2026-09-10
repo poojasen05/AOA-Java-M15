@@ -28,8 +28,8 @@ Print the flower type assigned to each garden in order.
 ```
 
 Program to implement Reverse a String
-Developed by: Ragavan E
-Register Number:212223040160
+Developedby: pooja s
+Register Number:212223040146
 import java.util.*;
 
 public class GardenFlowerPlanner {
